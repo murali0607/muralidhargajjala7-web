@@ -15,10 +15,11 @@ Data-driven problem solver with experience in regulatory reporting, ML research,
 - **T.R.R. Institute of Technology. (2019)** → Diploma of Technology → Computer Science
 
 ## 📊 Featured Projects
-- **Deep Learning-Based Experiment on Forest Wildfire Detection in Machine Vision**
-- **Facial Recognition Insight System Using Neural Network**
-- **Personal Finance Forecast** → PostgreSQL + Power BI for budgeting insights
+- **A-Deep-Learning-Based-Experiment-on-Forest-Wildfire-Detection-using-Reduce-VGGNet**
+- **Electric_Vehicle_Predictive_Modeling_Project**
+- **Predictive-Analytics-and-Financial-Modelling**
+- **CREDIT-CARD-FRAUD-DETECTION-PROJECT**
 
 ## 🛠️ Skills
 - **SQL, Python, R, Databricks, TensorFlow, PyTorch, Tableau, Power BI, AWS, Azure DevOps, Git**
-- **Certifications:** AWS Data Engineer, Data Analysis with Python, Python for Data Science, Machine Learning with Python, Deep Learning Fundamentals, PHP Web App on a LAMP Stack, How to Build Chatbots, AI with Shift for TensorFlow
+- **Certifications:**AWS Data Engineer, Data Analysis with Python, Python for Data Science, Machine Learning with Python, Deep Learning Fundamentals, PHP Web App on a LAMP Stack, How to Build Chatbots, AI with Shift for TensorFlow**
