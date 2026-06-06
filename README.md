@@ -1,21 +1,21 @@
 👋 Hi, I’m Muralidhar Reddy Gajjala!
 - 🎓 **M.S. Data Science (SPU New Jersey, Nov 2024)**
-- 💻 **AI + Data Engineer | LLM Applications | Multi-Agent AI Systems | RAG & Vector Databases | FastAPI Microservices | AWS | Azure | Kubernetes | Data Engineering | Machine Learning**
+- 💻 **Data Engineer | Analytics | Multi-Agent AI Systems | RAG & Vector Databases | FastAPI Microservices | AWS | Azure | GCP | Kubernetes | Data Engineering | Machine Learning**
 
 ## 🚀 About Me
-- ** Results-driven AI Data Engineer and Software Engineer and Data Science graduate with 4+ years of experience building scalable AI systems, cloud-native applications, backend platforms, and data engineering solutions across healthcare, financial services, and enterprise environments. Specialized in Generative AI, LLM applications, RAG pipelines, multi-agent orchestration, FastAPI microservices, and distributed systems using Python, AWS, and Azure. Experienced in developing production-grade AI solutions, optimizing enterprise workflows, building cloud ETL/data pipelines, and deploying scalable applications with Docker, Kubernetes, Terraform, Spark, SQL, and modern DevOps practices. Passionate about intelligent automation, scalable system design, and delivering high-impact AI-driven solutions that improve operational efficiency and business performance.
+- ** Results-driven Data Engineer and Software Engineer and Data Science graduate with 3+ years of experience building scalable ETL/ELT pipelines, data warehouses, and cloud-native data platforms across healthcare and financial services. Proficient in Python, SQL, Airflow, Azure Databricks, and AWS (Lambda, S3, Redshift) with strong expertise in data governance, data quality monitoring, and CI/CD automation. Proven ability to design enterprise data infrastructure and collaborate with cross-functional stakeholders to deliver reliable, high-impact data solutions.
 
 ## 💼 Experience
-- **Abbott (2025–Present)** → AI Data Engineer with experience building production-grade Generative AI and LLM-powered systems for healthcare enterprise environments. Specialized in multi-agent orchestration, RAG pipelines, FastAPI microservices, and cloud-native AI infrastructure using Python, AWS, and Azure. Experienced in deploying scalable AI applications, implementing observability and monitoring solutions, optimizing enterprise workflows, and improving system reliability through Kubernetes, Terraform, and CI/CD automation.
+- **Abbott (Jan 2026–Present)** → Data Engineer- Designed and implemented scalable data pipelines, ETL processes, and data warehouse solutions, ensuring reliable data integration, governance, quality, and performance optimization while collaborating with cross-functional teams to deliver actionable insights, support healthcare initiatives, mentor junior engineers, and drive continuous improvement through the adoption of modern data engineering technologies.
 
-- **Fidelity Investments (2024–2025)** → Data Engineer with expertise in data engineering, cloud ETL pipelines, and scalable backend systems within financial services environments. Skilled in building AI-ready data platforms using Python, Spark, SQL, AWS, and Azure, while ensuring data quality, governance, and workflow automation through Airflow, Databricks, and modern CI/CD practices. Experienced in supporting analytics, machine learning, and enterprise reporting solutions at scale.
+- **Fidelity Investments (Jan 2025–Dec 2025)** → Data Engineer- Designed and maintained scalable Python-based data pipelines, APIs, and cloud-native data services on AWS, enabling efficient ingestion, transformation, and delivery of financial data while supporting quantitative research, portfolio analytics, investment decision-making, and automated CI/CD-driven software deployments.
   
-- **GQBAY Software Pvt. Ltd (2021–2023)** → Data Anlayst experienced in developing scalable AI/ML applications, LLM agent workflows, and RAG-based enterprise solutions using LangChain, Pinecone, FastAPI, PostgreSQL, and MongoDB. Built high-performance async microservices, integrated financial APIs, and optimized AI response reliability through retrieval enhancement, concurrent processing, and distributed backend architectures.
+- **GQBAY Software Pvt. Ltd (Aug 2021–Jan 2023)** → Data Anlayst- Performed advanced data analysis using SQL and Python while developing data pipelines, transformation workflows, automated reporting solutions, and dashboards to deliver reliable insights, improve data quality, and support business decision-making, financial reporting, and cross-functional analytics initiatives.
 
-- **National Small Industries Corporation Ltd (2018–2019)** → Software Engineer (Intern) with experience developing REST APIs, integrating third-party AI services, and building automated data validation pipelines using Python, Java, and SQL. Contributed to Agile development environments by improving API reliability, reducing processing errors, and supporting CI/CD-driven software delivery and enterprise reporting solutions.
+- **National Small Industries Corporation Ltd (Nov 2018– May 2019)** → Software Engineer (Intern) - Assisted in developing RESTful APIs, data validation solutions, and automated workflows using Python, Java, and SQL, improving data accuracy, system integration, and reporting reliability while supporting CI/CD processes, application testing, and software deployment activities.
 
 ## 💼 Education
-- **Saint Peter's University (2024)** → Master in Science → Data Science
+- **Saint Peter's University (Nov 2024)** → Master in Science → Data Science
 
 ## 📊 Featured Projects
 - ** A-Deep-Learning-Based-Experiment-on-Forest-Wildfire-Detection-using-Reduce-VGGNet **
