@@ -1,25 +1,25 @@
 👋 Hi, I’m Muralidhar Reddy Gajjala!
 - 🎓 **M.S. Data Science (SPU New Jersey, Nov 2024)**
-- 💻 **Data Engineer | Analytics | Multi-Agent AI Systems | RAG & Vector Databases | FastAPI Microservices | AWS | Azure | GCP | Kubernetes | Data Engineering | Machine Learning**
+- 💻 **Data Engineer | Analytics | Multi-Agent AI Systems | RAG & Vector Databases | FastAPI Microservices | AWS | Azure | GCP | Kubernetes | Data Engineering | Machine Learning | Python | SQL |**
 
 ## 🚀 About Me
-- ** Results-driven Data Engineer and Software Engineer and Data Science graduate with 3+ years of experience building scalable ETL/ELT pipelines, data warehouses, and cloud-native data platforms across healthcare and financial services. Proficient in Python, SQL, Airflow, Azure Databricks, and AWS (Lambda, S3, Redshift) with strong expertise in data governance, data quality monitoring, and CI/CD automation. Proven ability to design enterprise data infrastructure and collaborate with cross-functional stakeholders to deliver reliable, high-impact data solutions.
+- ** Results-driven Data Engineer and Data Science graduate with 3+ years of experience building scalable ETL/ELT pipelines and cloud-native data platforms across financial and healthcare services. Proficient in Python, SQL, Spark, Airflow, Databricks, and AWS, with hands-on experience supporting AI/ML, Generative AI, and RAG applications. Skilled in data governance, data quality monitoring, and CI/CD automation. Proven ability to collaborate with cross-functional teams to deliver reliable, high-impact data solutions.
 
 ## 💼 Experience
-- **Abbott (Jan 2026–Present)** → Data Engineer- Designed and implemented scalable data pipelines, ETL processes, and data warehouse solutions, ensuring reliable data integration, governance, quality, and performance optimization while collaborating with cross-functional teams to deliver actionable insights, support healthcare initiatives, mentor junior engineers, and drive continuous improvement through the adoption of modern data engineering technologies.
+- **Fidelity Investments  (Jul 2025–Present)** → Data Engineer (AI/ML)- I design and build scalable, cloud‑native data pipelines that power AI/ML, analytics, and business‑critical applications across Fidelity’s financial data ecosystem. My work focuses on enabling high‑quality, production‑ready datasets and infrastructure for machine learning, Generative AI, and real‑time analytics..
 
-- **Fidelity Investments (Jan 2025–Dec 2025)** → Data Engineer- Designed and maintained scalable Python-based data pipelines, APIs, and cloud-native data services on AWS, enabling efficient ingestion, transformation, and delivery of financial data while supporting quantitative research, portfolio analytics, investment decision-making, and automated CI/CD-driven software deployments.
+- **Technology Hub (Jan 2025–Jun 2025)** → Data Engineer- I engineered scalable ETL/ELT pipelines and cloud‑based data solutions that powered analytics, reporting, and machine learning initiatives across the organization. My work focused on building reliable data infrastructure, automating workflows, and ensuring high‑quality datasets for business and technical teams..
   
-- **GQBAY Software Pvt. Ltd (Aug 2021–Jan 2023)** → Data Anlayst- Performed advanced data analysis using SQL and Python while developing data pipelines, transformation workflows, automated reporting solutions, and dashboards to deliver reliable insights, improve data quality, and support business decision-making, financial reporting, and cross-functional analytics initiatives.
+- **GQBAY Software Pvt. Ltd (Aug 2021–Jan 2023)** → Data Anlayst- I worked across analytics, reporting, and data quality functions to support business decision‑making and operational efficiency. I analyzed large datasets, built dashboards, and automated reporting workflows to deliver actionable insights to stakeholders.
 
-- **National Small Industries Corporation Ltd (Nov 2018– May 2019)** → Software Engineer (Intern) - Assisted in developing RESTful APIs, data validation solutions, and automated workflows using Python, Java, and SQL, improving data accuracy, system integration, and reporting reliability while supporting CI/CD processes, application testing, and software deployment activities.
+- **National Small Industries Corporation Ltd (Nov 2018– May 2019)** → Data Analyst (Intern) - I supported reporting, data quality, and operational analytics by collecting, organizing, and validating business data. I contributed to weekly and monthly reporting cycles and ensured data accuracy across internal systems.
 
 ## 💼 Education
 - **Saint Peter's University (Nov 2024)** → Master in Science → Data Science
 
 ## 📊 Featured Projects
 - ** A-Deep-Learning-Based-Experiment-on-Forest-Wildfire-Detection-using-Reduce-VGGNet **
-- ** Electric_Vehicle_Predictive_Modeling_Using_AI **
+- ** Electric_Vehicle_Predictive_Modeling_Using_ML **
 - ** Predictive-Analytics-and-Financial-Modelling **
 - ** CREDIT-CARD-FRAUD-DETECTION-PROJECT **
 
